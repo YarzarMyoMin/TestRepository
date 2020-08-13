@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Test.Views.Feature1Page">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="This is 1st Feature A Branch"/>
+            <Label Text="2nd feature A branch"/>
+            <Label Text="Release branch"/>
+            <Label Text="Hotfix 1 branch"/>
+            <Label Text="Hotfix 2 branch"/>
+            <Label Text="Add 1"/>
+            <Label Text="Add 2"/>
+            <Label Text="Add 3"/>
+            <Label Text="Insert 1"/>
+            <Label Text="Insert 2"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
